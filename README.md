@@ -45,8 +45,7 @@ I'm a Computer Science student passionate about building scalable software, solv
 
 ### 🚀 Current Focus
 
-- 🔐 Building **Secure Elect**
-- 📊 Developing **Algorithm Visualizer**
+- 🌐 Learning **Full Stack Development**
 - 💻 Practicing **Data Structures & Algorithms**
 - 🌱 Learning **System Design**
 
