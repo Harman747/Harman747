@@ -22,10 +22,6 @@
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Harman747&style=flat-square&color=58A6FF"/>
-
 </div>
 
 ---
