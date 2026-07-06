@@ -1,25 +1,31 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Harman+Saini;Software+Engineer;Competitive+Programmer;Full+Stack+Developer;Always+Building+Something+Cool"/>
+<h3>👋 Hi, I'm</h3>
+
+<img src="./name.svg" width="700" alt="Harman Saini"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Competitive+Programmer;Full+Stack+Developer;Always+Building+Something+Cool" alt="Typing animation"/>
 
 ### Passionate about building scalable software, solving challenging algorithmic problems, and creating products that make an impact.
 
 <br>
 
 <a href="https://github.com/Harman747">
-<img src="https://img.shields.io/badge/GitHub-Harman747-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Harman747-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/HarmanSaini_13/">
-<img src="https://img.shields.io/badge/LeetCode-HarmanSaini__13-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-HarmanSaini__13-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/13-harman/">
-<img src="https://img.shields.io/badge/LinkedIn-Harman_Saini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Harman_Saini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:harman.cu12@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
