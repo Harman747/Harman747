@@ -227,9 +227,6 @@ Real-time multiplayer quiz platform with dynamic game sessions.
 </div>
 
 ---
-
-# 🐍 Contribution Snake
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -246,6 +243,7 @@ Real-time multiplayer quiz platform with dynamic game sessions.
   <img
     alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/Harman747/Harman747/output/github-snake-dark.svg">
+
 </picture>
 
 </div>
