@@ -200,17 +200,13 @@ Real-time multiplayer quiz platform with dynamic game sessions.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub And LeetCode Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harman747&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Harman747&theme=tokyonight&hide_border=true"/>
 
 <br><br>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harman747&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img width="42%" src="https://leetcard.jacoblin.cool/HarmanSaini_13?theme=dark&font=Nunito&ext=contest"/>
 
