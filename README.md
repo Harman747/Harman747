@@ -1,3 +1,17 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header"/>
+
+<div align="center">
+
+<h3>👋 Hi, I'm</h3>
+
+<img src="./name.svg" width="700" alt="Harman Saini"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Competitive+Programmer;Full+Stack+Developer;Always+Building+Something+Cool" alt="Typing animation"/>
+
+...
+
 <div align="center">
 
 <h3>👋 Hi, I'm</h3>
